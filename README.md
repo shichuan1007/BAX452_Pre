@@ -1,2 +1,2 @@
-# BAX452_Pre
-Pre-assignment
+# Netflix Movie Research
+Machine Learning Pre-assignment
